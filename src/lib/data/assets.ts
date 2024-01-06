@@ -70,7 +70,15 @@ const Assets = {
 	Jest: a('jest.png'),
 	Unocss: a('unocss.svg'),
 	Ruvy: a('ruvy.svg'),
-	Postcss: a('postcss.svg')
+	Postcss: a('postcss.svg'),
+	FCR: a('First_Capital_Real_Estate_Investment_Trust_First_Capital_REIT_An.png'),
+	Git: a('git.png'),
+	MPP: a('MPP.png'),
+	Giftver: a('giftver.png'),
+	Metamorphosis: a('metamorphosis.png'),
+	HocusFocus: a('hocusfocus.png'),
+	McMaster: a('mcmaster.png'),
+	IB: a('ib.png')
 };
 
 export default Assets;
