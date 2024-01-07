@@ -30,7 +30,7 @@ const MY_EXPERIENCES: Array<Experience> = [
 		name: 'Software Developer',
 		color: '#ffffff',
 		links: [],
-		logo: Assets.Unknown,
+		logo: Assets.Linkall,
 		shortDescription: ''
 	}
 ];

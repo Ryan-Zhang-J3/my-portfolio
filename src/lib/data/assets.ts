@@ -78,7 +78,8 @@ const Assets = {
 	Metamorphosis: a('metamorphosis.png'),
 	HocusFocus: a('hocusfocus.png'),
 	McMaster: a('mcmaster.png'),
-	IB: a('ib.png')
+	IB: a('ib.png'),
+	Linkall: a('linkall.png')
 };
 
 export default Assets;
