@@ -117,6 +117,42 @@ const MY_SKILLS = [
 		color: 'pink',
 		logo: Assets.SASS,
 		name: 'SASS'
+	}),
+	s({
+		slug: 'Docker',
+		color: 'blue',
+		logo: Assets.Docker,
+		name: 'Docker'
+	}),
+	s({
+		slug: 'Kubernetes',
+		color: 'blue',
+		logo: Assets.Kubernetes,
+		name: 'SASS'
+	}),
+	s({
+		slug: 'GCP',
+		color: 'blue',
+		logo: Assets.GCP,
+		name: 'GCP'
+	}),
+	s({
+		slug: 'Prometheus',
+		color: 'red',
+		logo: Assets.Prometheus,
+		name: 'Prometheus'
+	}),
+	s({
+		slug: 'Grafana',
+		color: 'red',
+		logo: Assets.Grafana,
+		name: 'Grafana'
+	}),
+	s({
+		slug: 'Redis',
+		color: 'red',
+		logo: Assets.Redis,
+		name: 'Redis'
 	})
 ];
 

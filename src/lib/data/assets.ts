@@ -82,7 +82,10 @@ const Assets = {
 	Linkall: a('linkall.png'),
 	WatchActivation: a('watch-activation.png'),
 	SASS: a('sass-logo.png'),
-	TELUS: a('telus-logo.png')
+	TELUS: a('telus-logo.svg'),
+	Prometheus: a('promethues-logo.png'),
+	Grafana: a('grafana-logo.png'),
+	GCP: a('gcp-logo.png')
 };
 
 export default Assets;
