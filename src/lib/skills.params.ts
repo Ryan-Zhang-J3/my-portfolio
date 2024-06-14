@@ -96,7 +96,7 @@ const MY_SKILLS = [
 	}),
 	s({
 		slug: 'microsoft-power-platform',
-		color: 'blue',	
+		color: 'blue',
 		logo: Assets.MPP,
 		name: 'Microsoft Power Platform'
 	}),
@@ -111,8 +111,13 @@ const MY_SKILLS = [
 		color: 'blue',
 		logo: Assets.C,
 		name: 'C'
+	}),
+	s({
+		slug: 'SASS',
+		color: 'pink',
+		logo: Assets.SASS,
+		name: 'SASS'
 	})
-
 ];
 
 export default MY_SKILLS;

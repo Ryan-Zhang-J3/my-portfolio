@@ -48,7 +48,7 @@ export const HOME: HomePageParams = {
     title: 'Home',
     name: 'Ryan',
     lastName: 'Zhang',
-    description: `Hey, nice to meet you! I'm Ryan, a second year Computer Science student at McMaster University. I'm passionate about anything tech - I would love to talk about anything from the software that lets computers see to the hardware that makes it possible. Besides software development, studying, or trying out new food, there's not much I enjoy more than getting to know more people and having great interactions with others.
+    description: `Hey, nice to meet you! I'm Ryan, a third year Computer Science student at McMaster University. I'm passionate about anything tech - I would love to talk about anything from the software that lets computers see to the hardware that makes it possible. Besides software development, working out and playing sports, or trying out new food, there's not much I enjoy more than getting to know more people and having great interactions with others.
 
 I'm constantly learning and growing - trying to find new, better solutions and develop as a professional.`,
     links: [
@@ -81,7 +81,7 @@ export const SKILLS: SkillsPageParams = {
 
 export const RESUME: ResumePageParams = {
     title: 'Resumé',
-    item: 'Ryan_Resume_2023.pdf'
+    item: 'Ryan_Resume_2024.pdf'
 };
 
 export const SEARCH: SearchPageParams = {

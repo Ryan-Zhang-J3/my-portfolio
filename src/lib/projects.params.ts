@@ -4,13 +4,31 @@ import type { Project } from './types';
 
 const MY_PROJECTS: Array<Project> = [
 	{
+		slug: 'watch-activation',
+		color: '#5e95e3',
+		description:
+			'This Watch Activation project was a project taken on for a company in which I had the opportunity to work completely independently to finish the project end-to-end. The Watch Activation project allows owners of Smart Watches to manage their usage plan, billing, and connectivity with their mobile phone.',
+		shortDescription:
+			'The Watch Activation project allows owners of Smart Watches to manage their usage plan, billing, and connectivity with their mobile phone. This was built with a ReactJS and SASS front-end, and Java backend.',
+		links: [],
+		logo: Assets.WatchActivation,
+		name: 'Watch Activation App',
+		period: {
+			from: new Date('June 2024')
+		},
+		skills: getSkills('reactjs', 'SASS', 'ExpressJS', 'Java'),
+		type: 'Webapp',
+		screenshots: [
+		]
+	},
+	{
 		slug: 'giftver-project',
 		color: '#5e95e3',
 		description:
 			'Giftver is an easy to use web application that allows friends to create, manage, and run Secret Santa Gift Exchanges from anywhere.',
 		shortDescription:
 			'Giftver is an easy to use web application that allows friends to create, manage, and run Secret Santa Gift Exchanges from anywhere.',
-		links: [{ to: 'https://github.com/Ryan-Zhang-J3/Giftver', label: 'GitHub' }, { to: 'https://youtu.be/EPajGnAjCQI', label: 'Video Demo'}],
+		links: [{ to: 'https://github.com/Ryan-Zhang-J3/Giftver', label: 'GitHub' }, { to: 'https://youtu.be/EPajGnAjCQI', label: 'Video Demo' }],
 		logo: Assets.Giftver,
 		name: 'Giftver',
 		period: {
@@ -57,7 +75,7 @@ const MY_PROJECTS: Array<Project> = [
 		description:
 			'A program designed for users looking to maximize their productivity for extended periods of time.',
 		shortDescription:
-		'A program designed for users looking to maximize their productivity for extended periods of time.',
+			'A program designed for users looking to maximize their productivity for extended periods of time.',
 		links: [{ to: 'https://github.com/Ryan-Zhang-J3/HocusFocus', label: 'GitHub' }],
 		logo: Assets.HocusFocus,
 		name: 'hocusfocus',
@@ -68,7 +86,7 @@ const MY_PROJECTS: Array<Project> = [
 		type: 'Application',
 		screenshots: [
 		]
-	},	
+	},
 ];
 
 export default MY_PROJECTS;

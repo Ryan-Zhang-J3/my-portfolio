@@ -79,7 +79,10 @@ const Assets = {
 	HocusFocus: a('hocusfocus.png'),
 	McMaster: a('mcmaster.png'),
 	IB: a('ib.png'),
-	Linkall: a('linkall.png')
+	Linkall: a('linkall.png'),
+	WatchActivation: a('watch-activation.png'),
+	SASS: a('sass-logo.png'),
+	TELUS: a('telus-logo.png')
 };
 
 export default Assets;
